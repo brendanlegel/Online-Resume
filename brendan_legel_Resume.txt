@@ -1,0 +1,34 @@
+﻿EDUCATION
+Bachelor of Arts in Computer Science & Operations Research, New College Of Florida        [2014 - 2018]
+4.0 GPA from research contracts with professors
+Honors Thesis: Simulated Delivery Systems Optimization Analysis   
+Key Classes: Artificial Intelligence, Data Mining, Machine Learning & Optimization, Software Engineering, Econometrics, Quantitative Analysis
+
+
+EMPLOYMENT
+Linux Systems Administrator, New College Of Florida                                         [2018]
+Administering a Linux Mint cluster for the computer science program at New College of Florida for 60 users, including standard monitoring, maintaining, and upgrading of all equipment.
+
+
+Quantitative Analyst, Ashwood Capital                                                        [2017]
+Developed dynamic development model for allocating $21 million.  Developed executive summaries for third party clients that Ashwood Capital consulted for.
+
+
+Systems Engineer, First Alternatives                                                        [2013 - 2017]
+Developed website, payroll systems, shipping and exporting systems, sales systems, processing, technical documentation, and support systems for 500 users on health care platform. 
+
+
+PROJECTS 
+Optimization of Drone Delivery Systems (Computer Science + Economics Thesis)        [2017 - 2018]
+Simulated in Python drone delivery systems and vehicle delivery systems, using Google Maps API to derive real world routing data for metropolitan regions studied. Optimized routes constructed by drones for purposes of parcel delivery, in order to maximize their efficiency over existing transportation networks. Economically compared different delivery systems and constructed model to calculate comparative advantages given exogenous variables.
+
+
+Full Stack Software Engineer, Hex Video Game (www.hexxx.com)                        [2018]
+Worked with 2 computer science students as full-stack software engineer on online multiplayer video game.  Developed backend servers in Java and frontend UI in JavaScript, HTML, and CSS. Fully functional gaming experience included dynamic graphics rendering, databases interactions, and dashboard for command and control.  Project featured on New College of Florida website. 
+
+
+Data Mining of 85 Million Reviews on Amazon.com                                        [2017]
+Classified fake reviews on Amazon.com in Python based on customized NLP ontology.
+
+1st Place, NASA 2017 Space Apps Hackathon                                                 [2017]
+Developed databases and dashboard for tracking invasive species in Florida.
